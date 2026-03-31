@@ -1,4 +1,4 @@
-public class code22_搜索二维矩阵II {
+public class code21_搜索二维矩阵II {
     public boolean searchMatrix(int[][] matrix, int target) {
         int n = matrix.length;
         int m = matrix[0].length;

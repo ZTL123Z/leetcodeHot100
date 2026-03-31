@@ -1,4 +1,4 @@
-public class code23_反转链表 {
+public class code22_反转链表 {
     public ListNode reverseList(ListNode head) {
         ListNode cur = head;
         ListNode pre = null;

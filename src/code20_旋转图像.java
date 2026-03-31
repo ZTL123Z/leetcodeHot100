@@ -1,4 +1,4 @@
-public class code21_旋转图像 {
+public class code20_旋转图像 {
     //所以位于 i 行 j 列的元素，去到 j 行 n−1−i 列，即 (i,j)→(j,n−1−i)。
     //两次翻转等于一次旋转
     //(i,j) 转置 --> (j,i) 行翻转 --> (j,n−1−i)

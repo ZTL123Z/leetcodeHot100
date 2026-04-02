@@ -1,6 +1,6 @@
 public class code27_合并两个有序链表 {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode head = new ListNode(0);
+        ListNode head = new ListNode(0, head);
         ListNode cur = head;
         while (list1 != null || list2 != null) {
             if (list1 != null && list2 != null) {

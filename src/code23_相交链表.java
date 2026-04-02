@@ -18,7 +18,7 @@ public class code23_相交链表 {
  class ListNode {
      int val;
      ListNode next;
-     ListNode(int x) {
+     ListNode(int x, ListNode head) {
          val = x;
          next = null;
      }
